@@ -2,7 +2,7 @@
 - 👀 I love coding...
 - 🌱 I’m working as a Data Engineer and study Computer Science
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnDoe&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minakoaino&show_icons=true&theme=radical)
 
 
 <!---
