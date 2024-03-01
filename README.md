@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mina
+👋 Hi, I’m Mina
 
 <!---
 Minakoaino/Minakoaino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
